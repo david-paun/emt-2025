@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDEs
+*.iml
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# H2 DB files (in case you switch to file-based DB)
+*.mv.db
+*.h2.db
+
